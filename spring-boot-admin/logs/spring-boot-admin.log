@@ -1,0 +1,15 @@
+2024-07-29T00:39:47.403+03:00  INFO 256152 --- [spring-boot-admin] [main] o.t.springbootadmin.AdminApplication     : Starting AdminApplication using Java 17.0.9 with PID 256152 (/home/bilal/GithubProject/SpringProjects/spring-boot-admin-client/target/classes started by bilal in /home/bilal/GithubProject/SpringProjects)
+2024-07-29T00:39:47.406+03:00  INFO 256152 --- [spring-boot-admin] [main] o.t.springbootadmin.AdminApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-07-29T00:39:48.668+03:00  INFO 256152 --- [spring-boot-admin] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2024-07-29T00:39:48.679+03:00  INFO 256152 --- [spring-boot-admin] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-29T00:39:48.679+03:00  INFO 256152 --- [spring-boot-admin] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-29T00:39:48.732+03:00  INFO 256152 --- [spring-boot-admin] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-07-29T00:39:48.732+03:00  INFO 256152 --- [spring-boot-admin] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1276 ms
+2024-07-29T00:39:49.568+03:00  INFO 256152 --- [spring-boot-admin] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoints beneath base path '/actuator'
+2024-07-29T00:39:49.727+03:00  INFO 256152 --- [spring-boot-admin] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2024-07-29T00:39:49.746+03:00  INFO 256152 --- [spring-boot-admin] [main] o.t.springbootadmin.AdminApplication     : Started AdminApplication in 2.859 seconds (process running for 3.514)
+2024-07-29T00:39:49.906+03:00  WARN 256152 --- [spring-boot-admin] [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Failed to register application as Application(name=Admin API Service, managementUrl=http://localhost:8081/actuator, healthUrl=http://localhost:8081/actuator/health, serviceUrl=http://localhost:8081/) at spring-boot-admin ([http://localhost:8080/instances]): I/O error on POST request for "http://localhost:8080/instances": Connection refused. Further attempts are logged on DEBUG level
+2024-07-29T00:39:50.098+03:00  INFO 256152 --- [spring-boot-admin] [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-29T00:39:50.099+03:00  INFO 256152 --- [spring-boot-admin] [RMI TCP Connection(2)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-29T00:39:50.101+03:00  INFO 256152 --- [spring-boot-admin] [RMI TCP Connection(2)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-07-29T00:40:14.797+03:00  INFO 256152 --- [spring-boot-admin] [http-nio-127.0.0.1-8081-exec-1] o.t.s.controller.TicketController        : getting all tickets

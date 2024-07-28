@@ -1,0 +1,7 @@
+POST http://localhost:8081/api/ticket
+Content-Type: application/x-www-form-urlencoded
+
+###
+GET http://localhost:8081/api/ticket
+Accept: application/json
+

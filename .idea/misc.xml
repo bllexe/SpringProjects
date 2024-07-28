@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/spring-boot-actuator/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-docker-compose-nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin-server/pom.xml" />
       </list>
     </option>
   </component>

@@ -8,12 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-docker-compose-nginx" />
         <module name="spring-boot-actuator" />
+        <module name="spring-boot-admin" />
+        <module name="spring-boot-admin-server" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-actuator" options="-parameters" />
+      <module name="spring-boot-admin" options="-parameters" />
+      <module name="spring-boot-admin-server" options="-parameters" />
       <module name="spring-boot-docker-compose-nginx" options="-parameters" />
     </option>
   </component>
