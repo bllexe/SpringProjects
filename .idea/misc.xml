@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/spring-boot-admin/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-admin-client/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elasticsearch/pom.xml" />
       </list>
     </option>
   </component>
