@@ -6,5 +6,6 @@
     <file url="file://$PROJECT_DIR$/spring-boot-admin-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-docker-compose-nginx/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-thymeleaf-crud/src/main/java" charset="UTF-8" />
   </component>
 </project>

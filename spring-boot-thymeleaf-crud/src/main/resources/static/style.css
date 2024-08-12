@@ -1,0 +1,130 @@
+.navbar {
+    padding: 0 10px;
+}
+
+*.icon-dark {
+    color: grey;
+}
+
+.message {
+    position: absolute;
+    top: 40px;
+    right:5px;
+}
+
+.search-container {
+    display: grid;
+    gap: 0.5rem;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+}
+
+.search i {
+    margin-right: 0.5rem;
+}
+
+.search input[type="search"] {
+    flex: 1;
+    border: none;
+    border-radius: 0;
+    padding: 0.5rem;
+}
+
+.search button {
+    margin-left: 0.5rem;
+}
+
+.btn-info {
+    padding: 0.5rem 1rem;
+    margin-top: 0.5rem;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+footer .row {
+    display: flex;
+    justify-content: center;
+}
+
+footer .col-12 {
+    flex: 1;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    font-size: 16px;
+}
+
+
+header {
+    background-color: #343a40; /* Koyu gri arka plan rengi */
+}
+
+/* Navbar stil */
+.navbar {
+    padding: 10px 15px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-brand:hover {
+    color: #f8f9fa;
+}
+
+.navbar-toggler {
+    border-color: #ffffff;
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,...');
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    margin-left: 15px;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #adb5bd;
+}
+
+@media (max-width: 767px) {
+    .navbar-nav {
+        margin-top: 10px;
+    }
+
+    .nav-item {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+}
