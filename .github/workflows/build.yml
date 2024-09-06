@@ -6,9 +6,10 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  REPO_OWNER: ${{ github.repository_Owner }}
+  REPO_OWNER: ${{ github.repository_owner }}
 
 jobs:
+  build-and-push:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -38,5 +39,5 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-          secrets: |
+          build-args: |
             GITHUB_TOKEN=${{ secrets.GH_TOKEN }}

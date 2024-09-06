@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spring-boot-admin-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-thymeleaf-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis-cache/pom.xml" />
       </list>
     </option>
   </component>
