@@ -10,6 +10,7 @@
         <module name="spring-boot-docker-compose-nginx" />
         <module name="spring-boot-actuator" />
         <module name="spring-boot-admin" />
+        <module name="spring-boot-redis-cache (1)" />
         <module name="spring-boot-thymeleaf-crud" />
         <module name="spring-boot-admin-server" />
         <module name="spring-boot-redis-cache" />
@@ -25,6 +26,7 @@
       <module name="spring-boot-docker-compose-nginx" options="-parameters" />
       <module name="spring-boot-elasticsearch" options="-parameters" />
       <module name="spring-boot-redis-cache" options="-parameters" />
+      <module name="spring-boot-redis-cache (1)" options="-parameters" />
       <module name="spring-boot-thymeleaf-crud" options="-parameters" />
     </option>
   </component>
