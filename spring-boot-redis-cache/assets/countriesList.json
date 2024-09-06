@@ -1,0 +1,215 @@
+{
+  "DE": {
+    "name": "Germany",
+    "native": "Deutschland",
+    "phone": "49",
+    "continent": "EU",
+    "capital": "Berlin",
+    "currency": "EUR",
+    "languages": [
+      "de"
+    ]
+  },
+
+ "DK": {
+    "name": "Denmark",
+    "native": "Danmark",
+    "phone": "45",
+    "continent": "EU",
+    "capital": "Copenhagen",
+    "currency": "DKK",
+    "languages": [
+      "da"
+    ]
+  },
+
+    "FR": {
+    "name": "France",
+    "native": "France",
+    "phone": "33",
+    "continent": "EU",
+    "capital": "Paris",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ]
+  },
+
+  "GB": {
+    "name": "United Kingdom",
+    "native": "United Kingdom",
+    "phone": "44",
+    "continent": "EU",
+    "capital": "London",
+    "currency": "GBP",
+    "languages": [
+      "en"
+    ]
+  },
+
+    "NL": {
+    "name": "Netherlands",
+    "native": "Nederland",
+    "phone": "31",
+    "continent": "EU",
+    "capital": "Amsterdam",
+    "currency": "EUR",
+    "languages": [
+      "nl"
+    ]
+  },
+  "NO": {
+    "name": "Norway",
+    "native": "Norge",
+    "phone": "47",
+    "continent": "EU",
+    "capital": "Oslo",
+    "currency": "NOK",
+    "languages": [
+      "no",
+      "nb",
+      "nn"
+    ]
+  },
+
+   "PL": {
+    "name": "Poland",
+    "native": "Polska",
+    "phone": "48",
+    "continent": "EU",
+    "capital": "Warsaw",
+    "currency": "PLN",
+    "languages": [
+      "pl"
+    ]
+  },
+   "PT": {
+    "name": "Portugal",
+    "native": "Portugal",
+    "phone": "351",
+    "continent": "EU",
+    "capital": "Lisbon",
+    "currency": "EUR",
+    "languages": [
+      "pt"
+    ]
+  },
+
+    "RO": {
+    "name": "Romania",
+    "native": "România",
+    "phone": "40",
+    "continent": "EU",
+    "capital": "Bucharest",
+    "currency": "RON",
+    "languages": [
+      "ro"
+    ]
+  },
+  "RS": {
+    "name": "Serbia",
+    "native": "Србија",
+    "phone": "381",
+    "continent": "EU",
+    "capital": "Belgrade",
+    "currency": "RSD",
+    "languages": [
+      "sr"
+    ]
+  },
+  "RU": {
+    "name": "Russia",
+    "native": "Россия",
+    "phone": "7",
+    "continent": "EU",
+    "capital": "Moscow",
+    "currency": "RUB",
+    "languages": [
+      "ru"
+    ]
+  },
+
+    "SE": {
+    "name": "Sweden",
+    "native": "Sverige",
+    "phone": "46",
+    "continent": "EU",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "languages": [
+      "sv"
+    ]
+  },
+
+    "SI": {
+    "name": "Slovenia",
+    "native": "Slovenija",
+    "phone": "386",
+    "continent": "EU",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "languages": [
+      "sl"
+    ]
+  },
+  "SK": {
+    "name": "Slovakia",
+    "native": "Slovensko",
+    "phone": "421",
+    "continent": "EU",
+    "capital": "Bratislava",
+    "currency": "EUR",
+    "languages": [
+      "sk"
+    ]
+  },
+
+    "SZ": {
+    "name": "Swaziland",
+    "native": "Swaziland",
+    "phone": "268",
+    "continent": "AF",
+    "capital": "Lobamba",
+    "currency": "SZL",
+    "languages": [
+      "en",
+      "ss"
+    ]
+  },
+
+    "TR": {
+    "name": "Turkey",
+    "native": "Türkiye",
+    "phone": "90",
+    "continent": "AS",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "languages": [
+      "tr"
+    ]
+  },
+
+    "US": {
+    "name": "United States",
+    "native": "United States",
+    "phone": "1",
+    "continent": "NA",
+    "capital": "Washington D.C.",
+    "currency": "USD,USN,USS",
+    "languages": [
+      "en"
+    ]
+  },
+
+    "UA": {
+    "name": "Ukraine",
+    "native": "Україна",
+    "phone": "380",
+    "continent": "EU",
+    "capital": "Kyiv",
+    "currency": "UAH",
+    "languages": [
+      "uk"
+    ]
+  },
+}

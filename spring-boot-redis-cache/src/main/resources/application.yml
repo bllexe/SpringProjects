@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-boot-redis-cache
+  profiles:
+    active: dev
+
+  server:
+    port: 8090
+
+  logging:
+    level:
+      root: info
+  main:
+    allow-circular-references: true
