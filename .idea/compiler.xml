@@ -11,6 +11,7 @@
         <module name="spring-boot-actuator" />
         <module name="spring-boot-admin" />
         <module name="spring-boot-thymeleaf-crud" />
+        <module name="spring-mysql-rabbitmq" />
         <module name="spring-boot-admin-server" />
         <module name="spring-boot-redis-cache" />
         <module name="spring-boot-elasticsearch" />
@@ -32,6 +33,7 @@
       <module name="spring-boot-redis-cache" options="-parameters" />
       <module name="spring-boot-redis-cache (1)" options="-parameters" />
       <module name="spring-boot-thymeleaf-crud" options="-parameters" />
+      <module name="spring-mysql-rabbitmq" options="-parameters" />
     </option>
   </component>
 </project>
