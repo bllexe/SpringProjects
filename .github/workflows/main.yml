@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-
 env:
   REGISTRY: ghcr.io
   REPO_OWNER: ${{ github.repository_owner }}
