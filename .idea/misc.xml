@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/spring-boot-thymeleaf-crud/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-redis-cache/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-rabbitmq/pom.xml" />
       </list>
     </option>
   </component>
